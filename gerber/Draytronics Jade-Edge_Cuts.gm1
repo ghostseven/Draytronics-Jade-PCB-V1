@@ -1,18 +1,18 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(5.1.8-0-10_14)*%
-%TF.CreationDate,2020-12-18T20:02:30+00:00*%
-%TF.ProjectId,Draytronics Jade,44726179-7472-46f6-9e69-6373204a6164,rev?*%
-%TF.SameCoordinates,Original*%
-%TF.FileFunction,Profile,NP*%
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.9-0-10_14)*
+G04 #@! TF.CreationDate,2021-01-15T16:46:18+00:00*
+G04 #@! TF.ProjectId,Draytronics Jade,44726179-7472-46f6-9e69-6373204a6164,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Profile,NP*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.8-0-10_14)) date 2020-12-18 20:02:30*
+G04 Created by KiCad (PCBNEW (5.1.9-0-10_14)) date 2021-01-15 16:46:18*
 %MOMM*%
 %LPD*%
 G01*
 G04 APERTURE LIST*
-%TA.AperFunction,Profile*%
+G04 #@! TA.AperFunction,Profile*
 %ADD10C,0.050000*%
-%TD*%
+G04 #@! TD*
 G04 APERTURE END LIST*
 D10*
 X25400000Y-27940000D02*

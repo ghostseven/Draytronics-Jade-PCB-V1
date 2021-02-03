@@ -4,5 +4,5 @@
   (lib (name Keebio-Parts)(type KiCad)(uri "/Users/blake/Documents/Development/Keyboard/KiCad Libs/Keebio-Parts.pretty-master")(options "")(descr ""))
   (lib (name di-parts)(type KiCad)(uri "/Users/blake/Documents/Development/Keyboard/KiCad Libs/di-parts")(options "")(descr ""))
   (lib (name ctf-parts)(type KiCad)(uri "/Users/blake/Documents/Development/Keyboard/KiCad Libs/ctf-parts")(options "")(descr ""))
-  (lib (name logo)(type KiCad)(uri "/Users/blake/Documents/Development/Keyboard/KiCad Projects/Draytronics Jade/logos")(options "")(descr ""))
+  (lib (name logos)(type KiCad)(uri ${KIPRJMOD}/logos)(options "")(descr ""))
 )
